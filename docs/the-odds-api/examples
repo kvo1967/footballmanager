@@ -1,0 +1,4 @@
+https://api.the-odds-api.com/v4/sports?apiKey=40f75c7a1b850091e2a79f947cf1205c => sports.json
+
+
+https://api.the-odds-api.com/v4/sports/soccer_netherlands_eredivisie/odds?regions=eu&oddsFormat=decimal&apiKey=40f75c7a1b850091e2a79f947cf1205c => bets.json
