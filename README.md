@@ -124,6 +124,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 This tool is for educational and personal use. Please respect the terms of service of the websites being scraped and the APIs being used.
 
----
+----------------------------------------------------------------------
 
 *Generated with ❤️ and [Claude Code](https://claude.ai/code)*
