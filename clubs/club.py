@@ -1,4 +1,7 @@
 class Club:
+    """
+    Purpose: hold club information to hold player-club relationship
+    """
     def __init__(self, name, short_name, index):
         self.name = name
         self.short_name = short_name
