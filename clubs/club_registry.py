@@ -1,6 +1,9 @@
 from .club import Club
 
 class ClubRegistry:
+    """ Register all EREDIVISE clubs 
+        to make it easy to identify by different search options or names 
+    """
     def __init__(self):
         self.clubs = [
             Club("Ajax", "AJAX", 2),
