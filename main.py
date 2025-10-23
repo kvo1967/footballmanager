@@ -13,7 +13,7 @@ def get_budget_from_user():
     """
     Ask user for total budget amount via command line input.
 
-    Returns:
+    Returns:130
         int: Budget amount in millions of euros
     """
     while True:
